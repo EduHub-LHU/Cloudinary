@@ -116,7 +116,7 @@ Chạy ứng dụng và truy cập vào API để upload ảnh/video và nhớ t
 </p>
 
 <p align="center">
-  <img src="/uploadVideo.png" alt="upload video" width="48%" />
+  <img src="/UploadVideo.png" alt="upload video" width="48%" />
   <img src="/VideoSuccessful.png" alt="kết quả upload video" width="48%" />
 </p>
 
